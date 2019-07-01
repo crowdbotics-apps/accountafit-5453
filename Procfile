@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT accountafit_5453.wsgi:application
